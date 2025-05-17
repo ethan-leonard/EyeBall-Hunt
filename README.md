@@ -1,5 +1,13 @@
 #Eye Ball Hunt
 #### Video Demo: https://youtu.be/55kdGFo7oqA
+
+#### Images:
+![image](https://github.com/user-attachments/assets/b640b393-fdb9-4215-81ab-42a9d7697945)
+![image](https://github.com/user-attachments/assets/3262808b-4b94-485b-b4b0-4651c4b7ed15)
+![image](https://github.com/user-attachments/assets/99dc4433-5827-4551-a94d-7dd32c60af70)
+![Uploading image.png…]()
+
+
 #### Description:
 For my CS50 final project, I first begun my making a list of all the possible ideas I had for things I could create. After a couple days of brainstroming, I finally decided that I wanted to make a game for my final project. This is where I encountered my first challenge, I had no idea games were made. Thanks to CS50 though, I knew that I would be able to pick up new skills much faster then before, so I set out to locate a course that could teach me everything I needed to know about video game design. Pior to CS50, the only game engine I had heard of was Unity, so that is where I decided to start. I was able to locate a course called Create With Code which is made by Unity, and after looking at some reviews, I decided this is what I would be going with. Then for the next couple weeks, I worked my way through the 40 hour course, absorbing as much information as possible.
 
